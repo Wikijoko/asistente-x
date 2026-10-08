@@ -1,4 +1,0 @@
-python-telegram-bot[job-queue]==21.6
-tweepy==4.14.0
-standard-imghdr
-anthropic>=0.40
